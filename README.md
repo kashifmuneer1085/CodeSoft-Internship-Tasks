@@ -43,3 +43,13 @@ Below is a list of the tasks contained in this repo:
 1. Clone the repository:  
    ```bash
    git clone https://github.com/kashifmuneer1085/CodeSoft-Internship-Tasks.git
+
+
+   CodeSoft-Internship-Tasks/
+├── Landing Page/          → folder for landing page task
+├── Portfolio/             → folder for portfolio task
+├── Inspiration Page/      → folder for inspiration page design
+├── Calculator/            → folder for calculator project
+└── README.md
+
+
