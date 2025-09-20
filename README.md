@@ -47,6 +47,7 @@ Below is a list of the tasks contained in this repo:
 ## 📂 Folder Structure  
 
 CodeSoft-Internship-Tasks/
+
 ├── Landing Page/          
 ├── Portfolio/             
 ├── Inspiration Page/      
